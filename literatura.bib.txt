@@ -1,48 +1,38 @@
 % ....názov súboru je: literatura.bib
-% kniha
-@book{Coplien:MPD,
-	author = "James O. Coplien",
-	title = "Multi-Paradigm Design for C++",
-	publisher = "Addison-Wesley",
-	year = 1999
+
+% článok
+@article{Denmark_study,
+ ISSN = {07427778, 20569017},
+ URL = {https://www.jstor.org/stable/90014675},
+ abstract = {Abstract This article presents a study of Danish young English language learners’ (YELLs’) contact with and use of Extramural English (EE) (N = 107, aged 8 [n = 49] and 10 [n = 58]). They have received little formal English instruction: two lessons per week for one year. Data on EE-habits were collected with a one-week language diary (self-report with parental guidance). Participants reported minutes spent each day on seven EE-activities: gaming, listening to music, reading, talking, watching television, writing, and other. Vocabulary proficiency scores were obtained using the Peabody Picture Vocabulary Test (PPVT™-4). The results show that most time was spent on gaming, music, and watching television. Boys gamed significantly more (p < .001) than girls (235 minutes/week vs. 47 minutes/week). Additionally, the results show that gaming with both oral and written English input and gaming with only written English input are significantly related to vocabulary scores, in particular for boys. By investigating the EE-habits of YELLs and relations with second language (L2) English vocabulary learning, this study adds valuable new insights and knowledge about a topic that is becoming increasingly important for children in a globalized world.},
+ author = {Signe Hannibal Jensen},
+ journal = {CALICO Journal},
+ number = {1},
+ pages = {1--19},
+ publisher = {Equinox Publishing Ltd.},
+ title = {Gaming as an English Language Learning Resource among Young Children in Denmark},
+ urldate = {2022-11-06},
+ volume = {34},
+ year = {2017}
 }
 
-% článok v časopise
-@article{Czarnecki:Staged,
-    author = "Krzysztof Czarnecki and Simon Helsen and Ulrich Eisenecker",
-    title = "Staged Configuration Through Specialization and Multi-Level Configuration of Feature Models",
-    journal = "Software Process: Improvement and Practice",
-    volume = 10,
-    issue = 2,
-    month = apr # "/" # jun,
-    year = "2005",
-    pages = "143--169",
+@article{Taiwan_study,
+ ISSN = {11763647, 14364522},
+ URL = {http://www.jstor.org/stable/jeductechsoci.17.3.239},
+ abstract = {ABSTRACT The aim of this study is to make a new attempt to explore the potential of integrating game strategies with automatic speech recognition technologies to provide learners with individual opportunities for English pronunciation learning. The study developed the Game Embedded CALL (GeCALL) system with two activities for on-line speaking practice. For the drill practice, learners get immediate scores with evaluation feedback on their utterances; in the game-based practice, they have to correctly choose and pronounce the English vocabulary from the candidate answers to pass the four-level barriers. To enable the study to confirm the factors that facilitate students' English learning, a total of 52 learners from Taiwan participated in this experiment, divided into an experimental group (E.G.) and a control group (C.G.). The learners in the E.G learned English with both the drill and game-based practice, while the students in the C.G. learned only with the drill practice. The empirical evaluation reveals that those who learned with both drill and game-based activities performed better in terms of their English pronunciation than the learners who only participated in the drill practice, but the learners in the C.G. performed better in the delayed vocabulary retention test. Besides, the study indicates that the learners, especially the low-achievement ones, showed great involvement and were active in practicing speaking in the game-based scenario. The findings are in accordance with the previous research affirming that gameplay is the driving force that promotes learners' educative engagement, and that learners of different levels of learning achievement are active in learning together while practicing their oral speaking in the stress-free environment. In sum, the GeCALL system is an educative aid that could reduce learners' language speaking anxiety and to provide flexible chances for individual students to do self-speaking practice within the given limited teaching time. The findings of this study support the value of applying game strategies with ASR techniques for language learning purposes.},
+ author = {Shelley Shwu-Ching Young and Yi-Hsuan Wang},
+ journal = {Journal of Educational Technology & Society},
+ number = {3},
+ pages = {239--251},
+ publisher = {International Forum of Educational Technology & Society},
+ title = {The Game Embedded CALL System to Facilitate English Vocabulary Acquisition and Pronunciation},
+ urldate = {2022-11-06},
+ volume = {17},
+ year = {2014}
 }
 
-% článok v zborníku
-@inproceedings{Czarnecki:Progress,
-	author = "Krzysztof Czarnecki and Chang Hwan Peter Kim",
-	title = "Cardinality-Based Feature Modeling and Constraints: A Progress Report",
-	booktitle = "International Workshop on Software Factories, OOPSLA 2005",
-	month = oct,
-	year = "2005",
-	address = "San Diego, USA",
-}
-
-% technická správa (nepublikovaná)
-@techreport{Kang:FODA,
-	author = "Kyo C. Kang and Sholom G. Cohen and James A. Hess and William E. Novak and A. Spencer Peterson",
-	title = "Feature-Oriented Domain Analysis ({FODA}): A Feasibility Study",
-	institution = "Software Engineering Institute, Carnegie Mellon University",
-	address = "Pittsburgh, USA",
-	month = nov,
-	year = 1990,
-	number = "CMU/SEI-90-TR-21",
-}
-
-% zdroj na webe
-@misc{PLP-Framework,
-	author = "Software Engineering Institute, Carnegie Mellon University",
-	title = "A Framework for Software Product Line Practice---Version 5.0",
-	howpublished = "\url{http://www.sei.cmu.edu/productlines/frame_report/}",
+@article{Gender_diff,
+  title={Gender differences in online gaming: A literature review},
+  author={Veltri, Natasha and Krasnova, Hanna and Baumann, Annika and Kalayamthanam, Neena},
+  year={2014}
 }
